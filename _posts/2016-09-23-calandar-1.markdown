@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Queen's Sailing Calendar
 permalink: /calendar/
 type: info

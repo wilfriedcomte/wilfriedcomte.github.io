@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Pick of the day / Photo du jour:
+title: Pick of the day / Photo du jour:<br>Special Thanks
 description: |
 ---
-<br><h2>Aiguiser son regard</h2>
+  Aiguiser son regard!

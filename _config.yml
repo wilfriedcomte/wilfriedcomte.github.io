@@ -4,8 +4,7 @@
 
 url: https://wilfriedcomte.github.io
 title: Thinging
-email: your-email@domain.com
-author: Your Name
+email: wilfried.comteàgmail.com
 author: Wilfried COMTE
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
@@ -30,6 +29,8 @@ social:
   - title: twitter
     url: https://twitter.com/lamouchedebilou
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/wilfriedcomte
   - title: linkedin
-    url: 
+    url: https://fr.linkedin.com/in/wilfried-comte-b201084
+  - title: viadeo
+    url: http://fr.viadeo.com/fr/profile/wilfried.comte
